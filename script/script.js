@@ -45,6 +45,8 @@ function line(){
     document.getElementById('liniya').style.backgroundColor = newcolor
 }
 
+// 
+
 function picture(){
 
     document.getElementById('do').style.width = "50px"
